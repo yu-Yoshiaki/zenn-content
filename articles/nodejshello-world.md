@@ -4,6 +4,7 @@ emoji: "💻"
 type: "tech"
 topics: ["nodejs", "javascript", "programming", "beginners", "webdevelopment"]
 published: true
+publication_name: ""
 ---
 # Node.js入門：手軽に始めるHello Worldプログラムの作成方法
 
